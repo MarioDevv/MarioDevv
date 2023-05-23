@@ -1,7 +1,7 @@
 Hi 👋 My name is Mario
 ======================
 
-<div class="width: 100%; text-align: center;">Web App Developer</div>
+Web App Developer
 -----------------
 
 Passionate full-stack web developer with expertise in front-end and back-end technologies. Experienced in creating tools, automating processes, and cybersecurity. Committed to finding efficient solutions to meet user needs. Dedicated to professional growth and staying updated on the latest trends in web development and security.

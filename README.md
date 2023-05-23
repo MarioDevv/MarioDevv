@@ -28,10 +28,10 @@ Passionate full-stack web developer with expertise in front-end and back-end tec
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
                     
-                  ### Socials
+### Socials
                   
                   
-                <p align="left">
+<p align="left">
                           
                       <a href="https://www.linkedin.com/in/mariopmdev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           

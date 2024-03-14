@@ -10,8 +10,8 @@ Passionate full-stack web developer with expertise in front-end and back-end tec
 
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [perezmario.info@gmail.com](mailto:perezmario.info@gmail.com)
-* 🚀  I'm currently working on [Keyword Research Tool](http://github.com/PhPloveerPhP/Keyword-Tool)
-* 🧠  I'm learning React
+* 🚀  I'm currently working on a SECRET PROYECT called watermelon...
+* 🧠  Laravel & Vue 
 
 ### Skills
 

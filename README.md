@@ -10,7 +10,6 @@ Software Engineer especializado en PHP y Laravel. Diseño y construyo ERPs, plat
 * 🌍  Las Palmas de Gran Canaria, España
 * ✉️  [perezmario.info@gmail.com](mailto:perezmario.info@gmail.com)
 * 🔨  Diseñando ERPs y productos SaaS en [AtlanTIC Systems](https://atsys.es)
-* 📦  Creador de [Rex](https://github.com/MarioDevv/rex), librería open-source de facturación electrónica FacturaE
 
 ### Skills
 <p align="left">

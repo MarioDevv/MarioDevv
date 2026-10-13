@@ -1,12 +1,15 @@
 Full Stack Developer · PHP / Laravel · Las Palmas de Gran Canaria
 
-Facturación, pagos e integraciones fiscales en [AtlanTIC Systems](https://atsys.es).
+🇪🇸 Facturación, pagos e integraciones fiscales en [AtlanTIC Systems](https://atsys.es).
 Código con tests, fácil de cambiar cuando el negocio cambia.
 
-- [php-facturae](https://github.com/MarioDevv/php-facturae): facturas FacturaE 3.2.x con firma XAdES-EPES, cero dependencias
-- [laravel-redsys-subscriptions](https://github.com/MarioDevv/laravel-redsys-subscriptions): pagos recurrentes con Redsys para Laravel
+🇬🇧 Billing, payments and tax integrations at [AtlanTIC Systems](https://atsys.es).
+Tested code that stays easy to change when the business does.
 
-`PHP` (nativo, sin framework) `Laravel` `Vue` `React Native` `Docker` · IA aplicada · Verifactu · Redsys · FacturaE
+- [php-facturae](https://github.com/MarioDevv/php-facturae): FacturaE 3.2.x e-invoices with XAdES-EPES signing, zero dependencies
+- [laravel-redsys-subscriptions](https://github.com/MarioDevv/laravel-redsys-subscriptions): Redsys recurring payments for Laravel
+
+`PHP` `Laravel` `Vue` `React Native` `Docker` `IA` · Verifactu · Redsys · FacturaE
 
 <p align="center">
   <samp>

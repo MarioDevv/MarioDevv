@@ -1,23 +1,17 @@
-<div align=center>
-    <h1>Mario Pérez</h1>
-</div>
-<div align=center>
-    <h3>Software Engineer</h3>
-</div>
+Full Stack Developer · PHP / Laravel · Las Palmas de Gran Canaria
 
-Software Engineer especializado en PHP y Laravel. Diseño y construyo ERPs, plataformas SaaS e integraciones fiscales. Foco en sistemas que escalan, se mantienen y resuelven problemas reales de negocio.
+Facturación, pagos e integraciones fiscales en [AtlanTIC Systems](https://atsys.es).
+Código con tests, fácil de cambiar cuando el negocio cambia.
 
-* 🌍  Las Palmas de Gran Canaria, España
-* ✉️  [perezmario.info@gmail.com](mailto:perezmario.info@gmail.com)
-* 🔨  Diseñando ERPs y productos SaaS en [AtlanTIC Systems](https://atsys.es)
+- [php-facturae](https://github.com/MarioDevv/php-facturae): facturas FacturaE 3.2.x con firma XAdES-EPES, cero dependencias
+- [laravel-redsys-subscriptions](https://github.com/MarioDevv/laravel-redsys-subscriptions): pagos recurrentes con Redsys para Laravel
 
-### Skills
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+`PHP` `Laravel` `Vue` `React Native` `Docker` · Verifactu · Redsys · FacturaE
+
+<p align="center">
+  <samp>
+    <a href="https://mariodevv.com">web</a> .
+    <a href="https://mariodevv.com/blog">blog</a> .
+    <a href="https://www.linkedin.com/in/mariopmdev/">linkedin</a>
+  </samp>
 </p>
-
-### Socials
-<p align="left"> <a href="https://www.linkedin.com/in/mariopmdev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
